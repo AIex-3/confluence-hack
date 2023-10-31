@@ -1,4 +1,4 @@
-# Confluence-Hack
+# Confluence Hack
 CVE-2023-22515
 
 ## exploit.py
@@ -17,7 +17,7 @@ Was found on a server that was live in production \
 Is the decompiled file of plugin_shellplug.jar
 
 ## Tested on
-- Confluence 8.5.1
+- Confluence Server 8.5.1
 
 ## Disclaimer
 This repository is provided for educational and informational purposes only. Use it responsibly and only on systems that you have permission to test. Unauthorized access to computer systems is illegal and unethical.
