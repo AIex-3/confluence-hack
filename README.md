@@ -5,7 +5,7 @@ CVE-2023-22515
 Exploit to create a new admin user \
 Compromised audit log: \
 ![](./audit_log.png) \
-As a reverence served: https://packetstormsecurity.com/files/175225/Atlassian-Confluence-Unauthenticated-Remote-Code-Execution.html
+As a reverence served: https://packetstormsecurity.com/files/175225/Atlassian-Confluence-Unauthenticated-Remote-Code-Execution.html and https://github.com/Chocapikk/CVE-2023-22515
 
 ## plugin_shellplug.jar
 This plugin provides a web-based shell interface for executing command-line commands on a server \
